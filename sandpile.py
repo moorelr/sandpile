@@ -3,7 +3,7 @@ import cv2 # for recording video
 import numpy as np # for arrays and random numbers
 
 # Set up file Path
-directory = "C:\\Users\\Lowell Moore\\Desktop"
+directory = "C:\\Users\\ **** \\Desktop"
 file_path = directory + "\\test_video.avi"
 print(file_path)
 
